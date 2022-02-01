@@ -8,7 +8,7 @@ export class News extends Component {
 
       <div className='row'>
       <div className='col-md-4'>
-      <NewsItem title="Title" description="My News"/>
+      <NewsItem title="Title" url="https://www.the-sun.com/wp-content/uploads/sites/6/2022/01/BB-CHESLIE-KRYST-LIVE-BLOG.jpg?strip=all&quality=100&w=1200&h=800&crop=1" description="My News"/>
       </div>
       <div className='col-md-4'>
       <NewsItem title="Title" description="My News"/>
